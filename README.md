@@ -25,9 +25,9 @@
 
 🇬🇧 Hai Luong
 
-🇨🇳梁世海
+🇨🇳 梁世海
 
-🇯🇵ルオン・テ・ハイ
+🇯🇵 ルオン・テ・ハイ
 
 I learnt how to write a program in 2015. I was surprised and amazed because I could write my own program at the first time. After that, I continuously tried to learn it by myself. However, At that moment, I didn't have a computer and have to wait to Computer lesson to use computer to code. Because of that, I think I really like programming. Luckily, my parents bought for me a laptop and that is one of the best present they gave me and it made me easier to learn coding. When I was 17, I learnt C programming language and I really like it. It help me to understand many things in programming and how computers work. After learning it in 3 months, I have create my first game in C. That is snake game in console application and I always proud of it(The video about snake game below).
 At the present, I am a student in FPT University. I study Software Engineering to follow my interest and try to have great time here. I love the environment here. It make me become more active.
@@ -40,13 +40,13 @@ There are so many things I have to learn. I always try my best to learn and appl
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Glis Games](https://github.com/GlisGames)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Game development, AI and Computer Vision  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to everything you want  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
