@@ -66,20 +66,8 @@ There are so many things I have to learn. I always try my best to learn and appl
 
 ## Languages and Tools  
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hailiang194&badges=3&show-avatar=true&style=--header-bg-color:%23f00"
-/>
-<img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hailiang194"
 />
-
-<br/>  
-
-## Work experience
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=hailiang194&max-items=2&logos=true&style=--item-bg-color:%23fff;--item-border-radius:10px"
-/>
-<br/>
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
