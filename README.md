@@ -65,9 +65,7 @@ There are so many things I have to learn. I always try my best to learn and appl
 
 
 ## Languages and Tools  
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hailiang194"
-/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailiang194&layout=compact)](https://github.com/hailiang194)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
