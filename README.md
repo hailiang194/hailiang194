@@ -29,11 +29,11 @@
 
 🇯🇵 ルオン・テ・ハイ
 
-I learnt how to write a program in 2015. I was surprised and amazed because I could write my own program at the first time. After that, I continuously tried to learn it by myself. However, At that moment, I didn't have a computer and have to wait to Computer lesson to use computer to code. Because of that, I think I really like programming. Luckily, my parents bought for me a laptop and that is one of the best present they gave me and it made me easier to learn coding. When I was 17, I learnt C programming language and I really like it. It help me to understand many things in programming and how computers work. After learning it in 3 months, I have create my first game in C. That is snake game in console application and I always proud of it(The video about snake game below).
+A farmer with the field is full of code.
 
-I am a student in FPT University. I study Software Engineering to follow my interest and try to have great time here. I love the environment here. It make me become more active.
+I started to program when I was high school mainly focus on C/C++ and Python. I have 2 years experience developing games, games engine and game server with C++, C#, etc. Furthermore, I have some projects related to front-end using Vue.js, Vite, etc.
 
-There are so many things I have to learn so why don't we can learn each other?
+My native language is Vietnamese. I can speak English and a little bit Japanese and Mandarin.
   
 
 <br/>  
