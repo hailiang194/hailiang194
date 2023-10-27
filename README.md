@@ -30,7 +30,7 @@ My native language is Vietnamese. I can speak English and a little bit Japanese 
 <br/>  
 
 
-## Rapidfire  
+## Luong The Hai 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Glis Games](https://github.com/GlisGames)  
